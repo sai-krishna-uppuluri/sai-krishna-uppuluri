@@ -9,7 +9,7 @@
   <a href="mailto:hello@saikrishna.codes">
     <img src="https://img.shields.io/badge/contact-email-green?style=for-the-badge" alt="email"/>
   </a>
-  <a href="https://www.linkedin.com/in/connect-with-sai">
+  <a href="https://www.linkedin.com/in/connect-with-usk">
     <img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=for-the-badge" alt="linkedin"/>
   </a>
 </p>
