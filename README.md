@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm Sai Krishna Uppuluri</h1>
+<h1 align="center">Hi 👋, I'm S</h1>
 <h3 align="center">Full‑Stack JavaScript/TypeScript Developer | React • Node • Cloudflare Workers</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:hello@saikrishna.codes">
     <img src="https://img.shields.io/badge/contact-email-green?style=for-the-badge" alt="email"/>
   </a>
-  <a href="https://www.linkedin.com/in/connect-with-usk">
+  <a href="https://www.linkedin.com/in">
     <img src="https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin&style=for-the-badge" alt="linkedin"/>
   </a>
 </p>
